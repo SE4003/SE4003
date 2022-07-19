@@ -4,7 +4,7 @@
 print('Hello SE4003')
 
 # print a string variable
-today = "July 18, 2022"
+today = "July 19, 2022"
 print('Hello SE4003 on', today)
 
 se4003_students = [
