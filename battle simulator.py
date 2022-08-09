@@ -19,4 +19,4 @@ while x > 0 and y > 0: # run until a troop is eliminated
     Δy = -a * x
     x += Δx * dt
     y += Δy * dt
-    print (f"{time:<6.2f} {max(x, 0):<6.0f} {max(y, 0):<6.0f} {Δx:<6.0f} {Δy:<6.0f}") # max will clip negative end values due to DT approximation
+    print (f"{time:<6.2f} {max(x, 0):<6.0f} {max(y, 0):<6.0f} {Δx:<6.0f} {Δy:<6.0f}") # max will clip negative end values due to timestep approximation
