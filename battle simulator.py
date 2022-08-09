@@ -1,9 +1,9 @@
 # Battle Simulator Using Lanchester's Law for Aimed Fire
 
 # simulation inputs
-x0, y0 = 800, 1000
-a, b = .9, .8
-dt = .1
+x0, y0 = 800, 1000 # starting troop levels for x, y
+a, b = .9, .8 # lethality coefficients for x, y
+dt = .1 # integration timestep
 
 # initializations
 time, x, y = 0, x0, y0
