@@ -1,4 +1,4 @@
-# Battle Simulator Using Lanchester's Law
+# Battle Simulator Using Lanchester's Law for Aimed Fire
 
 # simulation inputs
 x0, y0 = 800, 1000
