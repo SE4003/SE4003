@@ -1,4 +1,6 @@
-# inputs
+# Battle Simulator Using Lanchester's Law
+
+# simulation inputs
 x0, y0 = 800, 1000
 a, b = .9, .8
 dt = .1
