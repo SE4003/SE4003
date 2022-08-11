@@ -1,6 +1,5 @@
 import pyml
 
-
 # system models
 system_name = "Battle Simulator"
 actors = ['Battle Planner']
