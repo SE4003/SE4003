@@ -1,4 +1,4 @@
-#This implements a car simulation to illustrate the concepts of class creation and usage.
+# Simple car race simulation illustrating the concepts of classes, object creation and usage.
 
 class Car():
     #attributes that apply to all instances
