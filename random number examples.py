@@ -26,7 +26,5 @@ print("normal variate = %6.2f" % normal)
 
 #print 10 random numbers in loop
 print ("10 random numbers: ")
-run_number = 1
-while run_number <= 10:
+for run in range(10):
     print(random.random()) #uniform number between 0 and 1
-    run_number += 1
